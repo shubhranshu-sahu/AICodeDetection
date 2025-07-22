@@ -8,7 +8,7 @@ AI Code Detection is a web application that helps determine whether a given piec
 - Support for multiple programming languages: Python, JavaScript, HTML, CSS, etc.,.
 - Code analysis by direct text input
 - File upload option for code detection
-- User-friendly web interface
+- User-friendly web interface.
 
 ## Technologies Used
 
